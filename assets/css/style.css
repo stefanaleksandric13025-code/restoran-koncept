@@ -417,9 +417,11 @@ book-a-table a{
     margin-bottom: 30px;
 }
 #section-3-text .button-2 span{
+    color: #fff;
+}
+#section-3-text .button-2:hover span{
     color: #0E0D0C;
 }
-
 #section-3-images{
     width: 50%;
     position: relative;
