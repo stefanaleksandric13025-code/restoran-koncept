@@ -85,15 +85,17 @@ header{
 .logo-text span{
     color: #fff;
     font-family: "Montserrat", sans-serif;
-    font-size: 10px;
+    font-size: 16px;
     text-transform: uppercase;
 }
 .logo-text p{
     font-family: "Playfair", serif;
-    font-size: 18px;
+    font-size: 24px;
     margin: 0;
-    color: #fff;
+    color: #e3c48e;
     text-transform: uppercase;
+    line-height: 20px;
+    font-weight: 600;
 }
 #menu{
     display: flex;
@@ -155,7 +157,7 @@ header{
     top: -40%;
 }
 
-.separator{width: 150px;}
+.separator{width: 175px;}
 #hero-banner-text{
     text-align: center;
 }
@@ -163,7 +165,7 @@ header{
     color: #e3c48e;
     font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 18px;
     display: flex;
     width: 100%;
     justify-content: center;
@@ -180,8 +182,9 @@ header{
     color: #fff;
     font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
-    font-size: 14px;
-    margin-bottom: 30px;
+    font-size: 20px;
+    width: 60%;
+    margin: 30px auto;
 }
 .button-2{
     min-width: 200px;
@@ -213,12 +216,12 @@ header{
     background: #e3c48e;
 }
 .button-2:hover span{
-    color:  #fff;
+    color: #0E0D0C;
     z-index: 2;
     position: relative;
 }
 #hero-banner-text .button-2:hover span{
-    color:  #fff;
+    color: #0E0D0C;
     z-index: 2;
     position: relative;
 }
@@ -414,7 +417,7 @@ book-a-table a{
     margin-bottom: 30px;
 }
 #section-3-text .button-2 span{
-    color: #fff;
+    color: #0E0D0C;
 }
 
 #section-3-images{
