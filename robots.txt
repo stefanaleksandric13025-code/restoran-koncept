@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://restoran-koncept.netlify.app/sitemap.xml
